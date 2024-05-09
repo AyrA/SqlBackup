@@ -79,3 +79,7 @@ Other commands supported by this application include:
 - Taking a database offline or online
 - Purging the backup history
 - Changing the recovery mode
+
+## More
+
+The file `S3.sql` shows how you can back up your database to an S3 bucket.
